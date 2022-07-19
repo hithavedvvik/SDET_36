@@ -1,5 +1,0 @@
-# Created at 2022-07-18T21:59:21.305
-Boot Manifest-JAR contains absolute paths in classpath 'D:\kavitha java\kavitha selenium\MAVENPRACTICE\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
