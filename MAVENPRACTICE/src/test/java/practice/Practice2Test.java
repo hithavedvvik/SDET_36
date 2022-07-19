@@ -8,5 +8,5 @@ public class Practice2Test {
 	{
 		System.out.println("Test2");
 	}
-
+//hi test not executed/");
 }
