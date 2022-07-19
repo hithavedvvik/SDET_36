@@ -12,7 +12,7 @@ public class Practice1Test {
 		String BROWSER = System.getProperty("browser");
 		String USERNAM = System.getProperty("username");
 		String PASSWORD1 = System.getProperty("password");
-		System.out.println("Test1");
+		System.out.println("Test1");//print
 		System.out.println("Test1"+URL);
 		System.out.println("Test1"+BROWSER);
 		System.out.println("Test1"+USERNAM);
