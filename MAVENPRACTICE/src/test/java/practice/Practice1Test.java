@@ -7,6 +7,7 @@ public class Practice1Test {
 	
 	@Test
 	public void practice1Test() {
+		System.out.println("Test1");	System.out.println("Test1");
 		String PASSWORD= System.getProperty("password");
 		String URL = System.getProperty("url");
 		String BROWSER = System.getProperty("browser");
