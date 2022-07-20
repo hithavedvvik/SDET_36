@@ -16,6 +16,7 @@ public class Practice1Test {
 		System.out.println("Test1");
 		System.out.println("Test1"+URL);
 		System.out.println("Test1"+BROWSER);
+		//hi
 		System.out.println("Test1"+USERNAM);
 		System.out.println("Test1"+PASSWORD);
 		System.out.println("Test1"+PASSWORD1);
