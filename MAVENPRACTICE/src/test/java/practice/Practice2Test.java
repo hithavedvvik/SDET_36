@@ -6,8 +6,12 @@ public class Practice2Test {
 	@Test
 	public void practice2Test()
 	{
-		System.out.println("Test2");
+		System.out.println("Test2 hi how ru ");
 	}
-
-}//not afjsklj lkmngkjdngj
+	public void practice3Test()
+	{
+		System.out.println("Test2 hi how ru ");
+	}
+	}
+//not afjsklj lkmngkjdngj
 //,m ngjkfdmn
